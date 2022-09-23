@@ -6,16 +6,16 @@
 # --- Required options --- #
 
 # Name of website
-title: Mon portofolio
+title: Découvrez mon portfolio !
 
 # Your name to show in the footer
-author: Some Person
+author: yunarobic
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   Me concernant: "aboutme"
-  Resources:
+  Ressources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
@@ -48,11 +48,11 @@ social-network-links:
   youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: deanat78
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
