@@ -4,7 +4,10 @@ title: Me concernant
 subtitle: Voici pourquoi vous souhaiteriez vous entretenir avec moi
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Bonjour ! Je m'apppelle Yuna Robic.
+Je suis étudiante en 3ème année de DNMADE numérique mention design numérique et interactif. 
+Mon style ?
+J'adore investir des créations physiques/ papier en numérique. Pour un côté authentique.
 
 - I rock a great mustache
 - I'm extremely loyal to my family
