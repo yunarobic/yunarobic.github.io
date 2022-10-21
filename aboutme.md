@@ -11,4 +11,4 @@ J'adore investir des créations physiques/ papier en numérique. Pour un côté 
 
 ### Quelques exemples de mes créations
 
-![Créations](/assets/img/tux.png)
+![Créations](/assets/img/Sphère en dégradé.png)
