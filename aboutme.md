@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Me concernant
-subtitle: Why you'd want to go on a date with me
+subtitle: Voici pourquoi vous souhaiteriez vous entretenir avec moi
 ---
 
 My name is Inigo Montoya. I have the following qualities:
