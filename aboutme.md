@@ -1,16 +1,14 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Me concernant ...
+subtitle: Voici comment bien présenter ma page
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Je suis ManuMazu et j'aide des étudiants à se créer un portfolio en ligne
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Voici une illustration de mon travail 
 
-What else do you need?
+J'aime les graphismes épurés et je suis fan de typo et de cartographie 
 
-### My story
+![carte kerveur](/assets/img/carte_kerveur.png)
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
