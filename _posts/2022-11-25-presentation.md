@@ -2,10 +2,10 @@
 layout: post
 title: Présentation
 subtitle: Blablabla sous-titre
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [books, test]
+cover-img: /assets/img/spider-web.jpg
+thumbnail-img: /assets/img/sea.jpg
+share-img: /assets/img/spider-web.jpg
+tags: [PAO, retouche photo, photoshop]
 ---
 
 ## Photoshop permet de faire des retouches photos mais reste un logiciel de pao très polyvalent
