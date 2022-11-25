@@ -1,3 +1,11 @@
 .avatar-img-border {
   box-shadow: none !important;
 }
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Trochut:wght@700&display=swap');
+</style>
+
+h1 {
+  font-family: 'Trochut', cursive;
+}
