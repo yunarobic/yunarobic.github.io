@@ -1,24 +1,6 @@
 ---
 layout: page
 ---
- <div class="container">
-            <div class="row">
-                <!--La classe bg-info ajoute un fond bleu à l'élément-->
-                <div class="col bg-info">1er élément</div>
-                <!--La classe bg-warning ajoute un fond jaune à l'élément-->
-                <div class="col bg-warning">2è élément</div>
-                <!--La classe bg-success ajoute un fond vert à l'élément-->
-                <div class="col bg-success">3è élément</div>
-            </div>
-            <div class="row">
-                <!--La classe bg-info ajoute un fond bleu à l'élément-->
-                <div class="col bg-info">1er élément</div>
-                <!--La classe bg-warning ajoute un fond jaune à l'élément-->
-                <div class="col bg-warning">2è élément</div>
-                <!--La classe bg-success ajoute un fond vert à l'élément-->
-                <div class="col bg-success">3è élément</div>
-            </div>
-        </div>
 
 {{ content }}
 
@@ -51,18 +33,7 @@ layout: page
       </a>
     </div>
     {% endif %}
-
-    {% unless site.feed_show_excerpt == false %}
-    {% if thumbnail != "" %}
-    <div class="post-image post-image-short">
-      <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
-        <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
-      </a>
-    </div>
-    {% endif %}
-
-    {% endunless %}
-
+   
    </div>
   {% endfor %}
 </div>
