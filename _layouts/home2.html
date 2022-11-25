@@ -12,7 +12,7 @@ layout: page
      {% if forloop.first == true %}
         <div class="row">
         <div class="col">
-     {% elsif forloop.index | modulo:3 == 0 %}
+     {% elsif forloop.index | modulo:2 == 0 %}
         <div class="row">
         <div class="col">
      {% else %}
