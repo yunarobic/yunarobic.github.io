@@ -4,50 +4,61 @@ layout: page
 {{ content }}
 
 {% assign posts = paginator.posts | default: site.posts %}
+{% assign openrow = false %}
+{% assign closerow = false %}
+{% assign maxcol = 3 %}
 
 <div class="container">
     
   {% for post in posts %}
   
-     {% if forloop.first == true %}
-        <div class="row">
-        <div class="col">
-     {% elsif forloop.index | modulo:2 == 0 %}
-        <div class="row">
-        <div class="col">
+     {% assign remainder = forloop.index | modulo:maxcol %}
+     {% if forloop.first %}
+       {% assign openrow = true %}
+     {% elsif remainder == 1 %}
+       {% assign openrow = true %}
      {% else %}
-        <div class="col">
+       {% assign openrow = false %}
      {% endif %}
-
-    {%- capture thumbnail -%}
-      {% if post.thumbnail-img %}
-        {{ post.thumbnail-img }}
-      {% elsif post.cover-img %}
-        {% if post.cover-img.first %}
-          {{ post.cover-img[0].first.first }}
-        {% else %}
-          {{ post.cover-img }}
-        {% endif %}
-      {% else %}
-      {% endif %}
-    {% endcapture %}
-    {% assign thumbnail=thumbnail | strip %}
-
-    {% if thumbnail != "" %}
-    <div class="post-image post-image-small">
-      <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
-        <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
-      </a>
-    </div>
+    
+    {% if openrow == true %}
+    <div class="row">
     {% endif %}
 
-   </div>
+      <div class="col">
+      {%- capture thumbnail -%}
+        {% if post.thumbnail-img %}
+          {{ post.thumbnail-img }}
+        {% elsif post.cover-img %}
+          {% if post.cover-img.first %}
+            {{ post.cover-img[0].first.first }}
+          {% else %}
+            {{ post.cover-img }}
+          {% endif %}
+        {% else %}
+        {% endif %}
+      {% endcapture %}
+      {% assign thumbnail=thumbnail | strip %}
 
-{% if forloop.first == true %}
- </div>
-{% elsif forloop.index | modulo:3 == 0 %}
-</div>
-{% endif %}
+      {% if thumbnail != "" %}
+      <div class="post-image post-image-small">
+        <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
+          <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
+        </a>
+      </div>
+      {% endif %}
+     </div>
+
+   {% if forloop.last %}
+     {% assign closerow = true %}
+   {% elsif remainder == 0 %}
+     {% assign closerow = true %}
+   {% else %}
+     {% assign closerow = false %}
+   {% endif %}
+  {% if closerow == true %}
+    </div>
+  {% endif %}
    
 {% endfor %}            
 </div>
