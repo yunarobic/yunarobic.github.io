@@ -5,9 +5,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Trochut:wght@700&display=swap');
 
 .h1 {
-  font-family: 'Trochut', cursive;
+  font-family: 'Trochut', cursive !important;
 }
 
 .navbar-custom {
-  background-color: #917FDD;
+  background-color: #917FDD !important;
 }
