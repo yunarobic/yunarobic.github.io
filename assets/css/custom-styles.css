@@ -8,7 +8,7 @@ h1 {
 }
 
 .navbar-custom {
-  background: linear-gradient(to bottom, #3333cc 0%, #ff5050 100%); !important;
+  background: linear-gradient(to bottom, #3333cc 0%, #AFBCD3 100%); !important;
 }
 
 .navbar-custom .navbar-brand, .navbar-custom .navbar-nav .nav-link {
