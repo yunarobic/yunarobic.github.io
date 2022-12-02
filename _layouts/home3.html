@@ -3,6 +3,10 @@ layout: page
 ---
 {{ content }}
 
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Trochut:wght@700&display=swap') !important;
+</style> 
+
 {% assign posts = paginator.posts | default: site.posts %}
 {% assign openrow = false %}
 {% assign closerow = false %}
