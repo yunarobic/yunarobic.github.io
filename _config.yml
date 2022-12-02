@@ -40,9 +40,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "robic.yuna0108@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+# rss: true  # remove this line if you don't want to show an RSS link at the bottom
 # facebook: yourname
-  github: yu_robic
+# github: yu_robic
 # twitter: yourname
 # patreon: yourname
 # youtube: c/daattali
