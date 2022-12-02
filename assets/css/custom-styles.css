@@ -6,8 +6,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Trochut:wght@700&display=swap') !important;
 </style> 
 
-.h1 {
-  font-family: 'Trochut' !important;
+h1 {
+  font-family: 'Trochut' , sans-serif !important;
 }
 
 .navbar-custom {
