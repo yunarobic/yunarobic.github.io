@@ -6,7 +6,7 @@ layout: page
 {% assign posts = paginator.posts | default: site.posts %}
 {% assign openrow = false %}
 {% assign closerow = false %}
-{% assign maxcol = site.maxcols %}
+{% assign maxcol = site.maxcols | default: 3 %}
 
 <div class="container">
     
