@@ -9,5 +9,5 @@
 }
 
 .navbar-custom {
-  background-color: linear-gradient(to bottom, #3333cc 0%, #ff5050 100%); !important;
+  background: linear-gradient(to bottom, #3333cc 0%, #ff5050 100%); !important;
 }
