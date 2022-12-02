@@ -11,3 +11,7 @@
 .navbar-custom {
   background: linear-gradient(to bottom, #3333cc 0%, #ff5050 100%); !important;
 }
+
+.navbar-nav .nav-link {
+  color: #FFFFFF !important;
+}
