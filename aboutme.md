@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Me concernant
-subtitle: Voici pourquoi vous souhaiteriez vous entretenir avec moi
+subtitle: Des questions ? Voici quelques informations à mon propos !
 ---
 
 Bonjour ! Je m'apppelle Yuna Robic.
