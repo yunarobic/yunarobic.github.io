@@ -3,7 +3,7 @@ layout: post
 title: Présentation 2 
 subtitle: Blablabla sous-titre
 cover-img: /assets/img/spider-web.jpg
-thumbnail-img: /assets/img/hello_world.jpeg
+thumbnail-img: /assets/img/Capturecestleprintemps+petit.png
 share-img: /assets/img/spider-web.jpg
 tags: [PAO, retouche photo, photoshop]
 ---
