@@ -19,10 +19,6 @@ h2 {
     color : #BDC3C7;
 }
 
-.navbar-custom {
-   background: linear-gradient(to top left, #cc00cc 7%, #33ccff 101%) !important;
-}
-
 .navbar-custom .navbar-brand, .navbar-custom .navbar-nav .nav-link {
   color: #FFFFFF !important;
 }
