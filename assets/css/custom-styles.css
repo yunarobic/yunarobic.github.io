@@ -19,7 +19,7 @@ span.page-subheading {
 }
 
 .navbar-custom {
-  background-color: #E74C3C  !important;
+   background: linear-gradient(to top left, #cc00cc 7%, #33ccff 101%) !important;
 }
 
 .navbar-custom .navbar-brand, .navbar-custom .navbar-nav .nav-link {
