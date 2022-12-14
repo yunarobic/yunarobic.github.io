@@ -6,11 +6,11 @@ p.solid {border-style: solid;}
 </style>
 </html>
 
-.avatar-img-border {
-  box-shadow: none !important;
+
+.avatar-img-border {  
   .p.solid {
-    border-color: white;
-  }
+    border-color: white; }
+  box-shadow: none !important;
 }
 
 
