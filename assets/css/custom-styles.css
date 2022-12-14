@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Trochut:wght@700&display=swap');
 
 .avatar-img-border {  
-    border-color: white; 
+    border-style: solid !important;
+    border-color: #FFFFFF !important; 
     box-shadow: none !important;
 }
 
