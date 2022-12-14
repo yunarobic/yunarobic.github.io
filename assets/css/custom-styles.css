@@ -11,11 +11,12 @@
 
 h1 {
   font-family: 'Unbounded', cursive;
-  color : #717171;
+  color : #BDC3C7;
 }
 
-span.page-subheading {
+h2 {
     font-family: 'Poppins', sans-serif;
+    color : #BDC3C7;
 }
 
 .navbar-custom {
