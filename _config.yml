@@ -103,14 +103,14 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#8540E2"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 #page-col: "#777777"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#515A5A"
+footer-col: "#611DBE"
 footer-text-col: "#D5DBDB"
 footer-link-col: "#D5DBDB"
 footer-hover-col: "#0085A1"
@@ -120,7 +120,7 @@ footer-hover-col: "#0085A1"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-page-img: "/assets/img/Home background 2.jpg"
+page-img: "/assets/img/Home background - 1.jpg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
