@@ -14,7 +14,7 @@ h1 {
 }
 
 .navbar-custom {
-  background: linear-gradient(to top right, #d12b11 39%, #e76719 100%); !important;
+  background-color: #B41309 !important;
 }
 
 .navbar-custom .navbar-brand, .navbar-custom .navbar-nav .nav-link {
