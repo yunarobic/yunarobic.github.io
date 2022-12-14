@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Trochut:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@500&display=swap');
 
 .avatar-img-border {  
     border-style: solid;
@@ -9,12 +9,12 @@
 
 
 h1 {
-  font-family: 'Trochut', cursive;
-  color : #476719;
+  font-family: 'Unbounded', cursive;
+  color : #0C4A12;
 }
 
 .navbar-custom {
-  background-color: #B41309 !important;
+  background-color: #DF3011 !important;
 }
 
 .navbar-custom .navbar-brand, .navbar-custom .navbar-nav .nav-link {
