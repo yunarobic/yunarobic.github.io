@@ -10,11 +10,11 @@
 
 h1 {
   font-family: 'Unbounded', cursive;
-  color : #000000;
+  color : #717171;
 }
 
 .navbar-custom {
-  background-color: #27296b !important;
+  background-color: #462263 !important;
 }
 
 .navbar-custom .navbar-brand, .navbar-custom .navbar-nav .nav-link {
