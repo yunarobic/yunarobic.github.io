@@ -8,5 +8,8 @@ share-img: /assets/img/spider-web.jpg
 tags: [PAO, retouche photo, photoshop]
 ---
 
-## blablablabla 
-![Post vidéo fleur qui s'ouvre](/assets/img/C'est le printemps1.mp4)
+## Animation d'une fleur qui s'ouvre 
+
+<video width="320" height="240" controls>
+  <source src="/assets/img/C'est le printemps1.mp4" type="Post vidéo fleur qui s'ouvre">
+</video>
