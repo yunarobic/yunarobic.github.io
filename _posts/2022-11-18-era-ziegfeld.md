@@ -18,6 +18,6 @@ Il s'agit d'un exercice dans la continuité de l'initiation et la consodilation 
 ![Inspiration](/assets/img/era ziegfeld inspiration.jpg)
 > [Photo d'inspiration](https://www.pinterest.fr/pin/625085623279974046/), de l'ère des Ziegfeld Follies
 
-## Mes déclinaisons pour ce portrait
+## Le tracé initial décliné
 
 |![One line drawing1](/assets/img/Era Ziegfeld white.jpg)| ![One line drawing2](/assets/img/Era Ziegfeld black.jpg)| 
