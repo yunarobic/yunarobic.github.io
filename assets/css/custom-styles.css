@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 
 .avatar-img-border {  
     border-style: solid;
@@ -27,6 +28,9 @@ p {
     color : #757575;
 }
 
+ol {
+    font-family: 'Poppins', light; 
+}
 
 .navbar-custom .navbar-brand, .navbar-custom .navbar-nav .nav-link {
   color: #FFFFFF !important;
