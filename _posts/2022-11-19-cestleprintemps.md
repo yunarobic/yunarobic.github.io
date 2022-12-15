@@ -9,4 +9,4 @@ tags: [PAO, retouche photo, photoshop]
 ---
 
 ## blablablabla 
-![](C'est le printemps1.mp4)
+![Post vidéo fleur qui s'ouvre](/assets/img/C'est le printemps1.mp4)
