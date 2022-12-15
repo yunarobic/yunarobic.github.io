@@ -4,9 +4,9 @@ title: Me concernant
 subtitle: Des questions ? Voici quelques informations à mon propos !
 ---
 
-### Bonjour ! Je m'apppelle Yuna Robic.
+##### Bonjour ! Je m'apppelle Yuna Robic.
   
-##### Vous pouvez me contacter par mail a à l'adresse suivante : robic.yuna0108@gmail.com 
+**Vous pouvez me contacter par mail a à l'adresse suivante : robic.yuna0108@gmail.com**
   
 <p>Je suis étudiante en 3ème année de DNMADE numérique **mention design numérique et interactif** sur Quimper.
 Dans cette formation nous sommes amenés à travailler autour de la création numérique en général :  
