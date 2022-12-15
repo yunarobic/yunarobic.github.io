@@ -36,3 +36,9 @@ ol {
    color: #FFFFFF !important;
    font-weight: 650 !important;
 }
+
+video {
+    display:block;
+    width: 580px;
+    margin:0 auto 35px auto
+}
