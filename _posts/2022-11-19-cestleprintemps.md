@@ -11,8 +11,8 @@ tags: [PAO, retouche photo, photoshop]
 ## Animation d'une fleur qui s'ouvre 
 
 
-<html>
+[center]<html>
 <video width="580" height="580" controls>
   <source src="/assets/img/C'est le printemps1.mp4" type="video/mp4">
 </video>
-</html>
+</html>[/center]
