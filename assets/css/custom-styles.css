@@ -24,14 +24,15 @@ h2 {
 }
 
 p {
-    font-family: 'Poppins', sans-serif;
-    color : #757575;
+  font-family: 'Poppins', sans-serif;
+  color : #757575;
 }
 
 ol {
-    font-family: 'Poppins', light; 
+   font-family: 'Poppins', light; 
 }
 
 .navbar-custom .navbar-brand, .navbar-custom .navbar-nav .nav-link {
-  color: #FFFFFF !important;
+   color: #FFFFFF !important;
+   font-weight: 500 !important;
 }
