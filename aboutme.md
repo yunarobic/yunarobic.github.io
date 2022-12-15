@@ -8,7 +8,7 @@ subtitle: Des questions ? Voici quelques informations à mon propos !
   
 **Vous pouvez me contacter par mail a à l'adresse suivante : robic.yuna0108@gmail.com**
   
-<p>Je suis étudiante en 3ème année de DNMADE numérique **mention design numérique et interactif** sur Quimper.
+<p>Je suis étudiante en 3ème année de DNMADE numérique </p>**mention design numérique et interactif** sur Quimper.
 Dans cette formation nous sommes amenés à travailler autour de la création numérique en général :  
 motion design, webdesign, création de visuels, vidéo, photographie, stop-motion, mapping,...</p>
 
