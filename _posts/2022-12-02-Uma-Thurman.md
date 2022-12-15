@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Présentation 2 
-subtitle: Blablabla sous-titre
-cover-img: /assets/img/spider-web.jpg
+title: Pochette d'album
+subtitle: blblbl
+cover-img: /assets/img/Fond cover.jpg
 thumbnail-img: /assets/img/Uma Thurman2.png
 share-img: /assets/img/spider-web.jpg
-tags: [PAO, retouche photo, photoshop]
+tags: [PAO, vidéo, AE, fleur, printemps]
 ---
 
 ## blablablabla 
