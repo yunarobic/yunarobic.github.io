@@ -4,7 +4,7 @@ title: Me concernant
 subtitle: Des questions ? Voici quelques informations à mon propos !
 ---
 
-<p>Bonjour ! Je m'apppelle Yuna Robic.</p>
+### Bonjour ! Je m'apppelle Yuna Robic.
   
 ##### Vous pouvez me contacter par mail a à l'adresse suivante : robic.yuna0108@gmail.com 
   
