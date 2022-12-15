@@ -14,9 +14,13 @@ h1 {
   color : #BDC3C7;
 }
 
+.page-subheading {
+    color: #757575;
+}
+
 p {
     font-family: 'Poppins', sans-serif;
-    color : #BDC3C7;
+    color : #757575;
 }
 
 
