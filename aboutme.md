@@ -4,8 +4,11 @@ title: Me concernant
 subtitle: Des questions ? Voici quelques informations à mon propos !
 ---
 
-<p>Bonjour ! Je m'apppelle Yuna Robic.
-Je suis étudiante en 3ème année de DNMADE numérique mention design numérique et interactif sur Quimper.
+<p>Bonjour ! Je m'apppelle Yuna Robic.</p>
+  
+##### Vous pouvez me contacter par mail a à l'adresse suivante : robic.yuna0108@gmail.com 
+  
+<p>Je suis étudiante en 3ème année de DNMADE numérique mention design numérique et interactif sur Quimper.
 Dans cette formation nous sommes amenés à travailler autour de la création numérique en général :  
 motion design, webdesign, création de visuels, vidéo, photographie, stop-motion, mapping,...</p>
 
@@ -19,3 +22,4 @@ J'ai fait 3 ans d'Histoire des Arts en option lorsque j'étais au lycée. J'éta
 ### Curriculum vitae
 
 ![CV](/assets/img/CV 2022-2023.png)
+
