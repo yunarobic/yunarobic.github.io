@@ -23,7 +23,7 @@ Ici, avec l'arrivée des nouveaux packagings de la marque, l'idée était de don
 Cette saison était parfaite pour marquer le **renouveau** (et ainsi celui des packagings et du site). Suite à la liste d'activités illustrées :
 
 |![Post1](/assets/img/Pique-niquer 2 copie.png) | [!Post2](/assets/img/Cuisine.png)| [!Post3](/assets/img/Ménage.png)|
-|![Post4](/assets/img/Plantes.png) | [!Post5](/assets/img/Randonner.png)| [!Post6](/assets/img/Bol avec balls 2.jpg)|
+|![Post4](/assets/img/Plantes.png) | [!Post5](/assets/img/Randonner.png)| [!Post6](/assets/img/Bol avec balls 2.png)|
 
 On aurait mis en avant la dégustation des energy balls pour bien savourer l'arrivée de cette nouvelle saison sur la dernière photo.
 
