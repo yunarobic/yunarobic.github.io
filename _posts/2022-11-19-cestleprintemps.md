@@ -36,10 +36,10 @@ Et un exemple de description possible :
 >Et c’est une magnifique saison pour le renouveau et la découverte ! 🗺
 >A l’image des fleurs qui éclosent, c’est le moment de préparer ou de voir aboutir vos projets 🚀
 >Donc si vous ne savez pas trop comment occuper vos beaux jours ☀️ voici une petite liste :
->profiter d’un bon pique-nique à la plage, dans un parc au calme (et pourquoi pas déguster quelques balls ? ) 🧺
->1. du tri, rangement et nettoyage, ce n’est pas pour rien qu’on parle de grand ménage de printemps ! 🧹
->2. découvrir de nouvelles recettes 🥣
->3. planter ou acheter des plantes pour verdir votre environnement, ça vivifie les espaces 🌱
->4. partir à l’aventure 🤠 ou simplement en randonnée
+>1.profiter d’un bon pique-nique à la plage, dans un parc au calme (et pourquoi pas déguster quelques balls ? ) 🧺
+>2. du tri, rangement et nettoyage, ce n’est pas pour rien qu’on parle de grand ménage de printemps ! 🧹
+>3. découvrir de nouvelles recettes 🥣
+>4. planter ou acheter des plantes pour verdir votre environnement, ça vivifie les espaces 🌱
+>5. partir à l’aventure 🤠 ou simplement en randonnée
 >Et vous ? Que faîtes-vous au printemps ?
 >#spring #vegan #printemps #todolist
