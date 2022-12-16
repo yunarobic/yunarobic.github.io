@@ -22,8 +22,9 @@ Ici, avec l'arrivée des nouveaux packagings de la marque, l'idée était de don
 à faire en ce début de printemps 2022. Le carrousel aurait débuté par cette courte vidéo d'une fleur s'ouvrant, le printemps, l'éclosion des fleurs,... 
 Cette saison était parfaite pour marquer le **renouveau** (et ainsi celui des packagings et du site). Suite à la liste d'activités illustrées :
 
-|![Post1](/assets/img/Era Ziegfeld white.jpg) | [!Post2](/assets/img/Era Ziegfeld white.jpg)|
+|![Post1](/assets/img/Pique-niquer 2 copie.png) | [!Post2](/assets/img/Cuisine.png)| [!Post3](/assets/img/Ménage.png)|
+|![Post4](/assets/img/Plantes.png) | [!Post5](/assets/img/Randonner.png)| [!Post6](/assets/img/Bol avec balls 2.jpg)|
 
 On aurait mis en avant la dégustation des energy balls pour bien savourer l'arrivée de cette nouvelle saison sur la dernière photo.
 
-![Energyballs](/assets/img/Era Ziegfeld white.jpg)
+![Energyballspackaging](/assets/img/Packs dans l'herbe.png)
