@@ -31,7 +31,7 @@ On aurait mis en avant la dégustation des energy balls pour bien savourer l'arr
 ![Energyballspackaging](/assets/img/Packs dans l'herbe.png)
 
 Et un exemple de description possible : 
->“Si vous ne le savez pas encore de nouveaux formats sont sortis !
+>Si vous ne le savez pas encore de nouveaux formats sont sortis !
 >Ça tombe bien puisque cela fait x jours que le printemps a commencé 🌼
 >Et c’est une magnifique saison pour le renouveau et la découverte ! 🗺
 >A l’image des fleurs qui éclosent, c’est le moment de préparer ou de voir aboutir vos projets 🚀
